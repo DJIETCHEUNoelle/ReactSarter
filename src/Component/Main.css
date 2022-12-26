@@ -1,0 +1,84 @@
+.Main{
+    display: grid;
+
+    
+   
+   
+}
+
+/*.Nav{
+        
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
+    
+    background-color: #564fbb;
+
+} 
+.Nav-Menu{
+    display: flex;
+    color: #eee5e5;
+    flex-direction: row;
+    margin-right: 30px;
+    width: 20vw;
+    align-items: center;
+}
+.menu{
+    font-size: 20px;
+    }
+.menu-icon{
+    font-size: 30px;
+    
+}
+
+.Link a{
+    width: 60vw;
+    margin-right: 10px;
+    color: #eee5e5;
+    text-decoration: none;
+}
+
+
+.Nav-links-ul{
+    
+
+}
+.Nav-date{
+    color: #eee5e5;
+    width: 20vw;
+    display: block;
+    right: 10px;
+    padding: 5px;
+    align-items: center;
+}
+.SideDrawer{
+    display: grid;
+    background-color: bisque;
+    border: solid 2px;
+    font-size: 18px;
+    width: 200px;
+    height: 100%;
+
+   
+}
+.Corq{
+    
+    display: grid;
+    background-color: rgb(247, 143, 15);
+    border: solid 2px;
+    font-size: 18px;
+    margin-left: 30%;
+  
+
+}
+.SideDrawer-icon{
+    margin: 20%;
+}
+.p{
+  margin-left: 20px;
+    text-align: justify;
+ }
+ .Nom-Center{
+    margin-left:27%;
+    margin-top: 27%;
+ }*/

@@ -1,0 +1,21 @@
+/*.SideDrawer{
+    display: grid;
+    grid-template-columns: 20%;
+    background-color: bisque;
+    border: solid 2px;
+    font-size: 18px;
+    margin-right: 550px;
+    margin-bottom: 500px;
+    
+   
+}
+.p{
+   margin: 50%;
+}
+.Nom-Center{
+    margin-left: 380%;
+}
+.SideDrawer-icon{
+    margin: 50%;
+}
+
